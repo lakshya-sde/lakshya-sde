@@ -153,13 +153,31 @@ const lakshya: Engineer = {
 
 ---
 
-## GitHub Stats
+## At a Glance
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=lakshya-sde&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A5B4FC&icon_color=6366F1&text_color=C9D1D9&rank_icon=github"/>
+<img src="https://img.shields.io/badge/Experience-5%2B%20Years%20in%20Production-6366F1?style=for-the-badge&logoColor=white"/>
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshya-sde&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A5B4FC&text_color=C9D1D9&langs_count=8"/>
+<img src="https://img.shields.io/badge/Current%20Role-Tech%20Lead%20%40%20PenIT-6366F1?style=for-the-badge&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Domain-Full--Stack%20%26%20AI%20Engineering-6366F1?style=for-the-badge&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Backend-Laravel%20%C2%B7%20Node.js%20%C2%B7%20FastAPI-0f172a?style=for-the-badge&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/AI%20%2F%20LLM-LangGraph%20%C2%B7%20RAG%20%C2%B7%20GPT--4o-0f172a?style=for-the-badge&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Cloud-AWS%20%C2%B7%20Docker%20%C2%B7%20CI%2FCD-0f172a?style=for-the-badge&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Methodology-Agile%20%C2%B7%20SDLC%20%C2%B7%20JIRA-374151?style=for-the-badge&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Architecture-Distributed%20%C2%B7%20Microservices%20%C2%B7%20Event--Driven-374151?style=for-the-badge&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Database-MySQL%20%C2%B7%20MongoDB%20%C2%B7%20Redis-374151?style=for-the-badge&logoColor=white"/>
 
 </div>
 
